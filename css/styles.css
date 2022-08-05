@@ -4,3 +4,15 @@
 .navbar {
     border-bottom: 1px solid whitesmoke;
 }
+.hero-img {
+    width: 500px;
+}
+.purchase {
+    align-content: center;
+    align-items: center;
+    justify-content: flex-start
+}
+
+ul {
+    list-style-type: none;
+}
