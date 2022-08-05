@@ -1,6 +1,10 @@
 .nav-avatar{
     width: 50px;
 }
+.iconn{
+    width: 30px;
+    padding-top: 10px;
+}
 .navbar{
-    border-bottom: 1px solid whitesmoke;
+    border-bottom: 1px solid ;
 }
